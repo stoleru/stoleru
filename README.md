@@ -21,7 +21,7 @@
 - Ex Senior Frontend Developer at AverExchange: building blockchain DApps on Solana  
 
 ### 📂 Popular Projects
-- `prediction-market` — Smart contract + UI demo for prediction market  
+- [`prediction-market`](https://www.github.com/stoleru/prediction-market) — Smart contract + UI demo for prediction market  
 - `web3-dashboard` — Asset management and blockchain visualization DApp  
 - `iot-blockchain-health` — Open-source AI + blockchain demo for medical data  
 
